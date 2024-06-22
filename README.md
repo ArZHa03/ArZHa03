@@ -6,6 +6,7 @@
 ## How's life
 - 📱 I like to custome rom on my devices to optimal for daily use
 - 💻 Currently learning on EEPIS (The Electronic Engineering Polytechnic Institute of Surabaya), part time on my small business as computer technician
+- 👨‍💻 Right now i'm mastering as Mobile Developer
 
 ## What's the weather
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArZHa03&layout=compact&theme=dracula)](https://github.com/ArZHa03)
