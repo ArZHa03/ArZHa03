@@ -1,5 +1,7 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ArZHa03.ArZHa03" />
-<img align="right" src="https://komarev.com/ghpvc/?username=ArZHa03" />
+<div>
+    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ArZHa03.ArZHa03" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=ArZHa03" />
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaki!;" />
@@ -27,21 +29,40 @@
 <h2 align="center">📦 My Products 📦</h2>
 
 <div align="center">
-  <a href="https://simplewallet.agileteknik.com">
-    <img src="https://storage.agileteknik.com/media-library/1921/k8RgXYAQadM0DFXCTKoHLMjsQ1vOLV-metadGh1bWIyLnBuZw==-.png" alt="Simple Wallet" />
-  </a>
-  <a href="https://nikomood.com">
-    <img src="https://storage.agileteknik.com/media-library/4170/zbvafeqPNZejMcQgzsBhEAx9DmrOGV-metaTmlrbyBNb29kIExvZ28gMzgucG5n-.png" alt="Niko Mood" />
-  </a>
-  <a href="https://notetaker.agileteknik.com/note">
-    <img src="https://storage.agileteknik.com/media-library/4208/sg6KzBmUU0ADLaEOj5ICr739PYSvtc-metaTG9nbyBEYXJrIC0gU2VjaSBOb3RlLnBuZw==-.png" alt="Note Taker" />
-  </a>
-  <a href="https://secimap.com">
-    <img src="https://storage.agileteknik.com/media-library/4599/0B8LM2WWanaBIaYEFR1ImRB8RKRrTK-metaR3JvdXAgMTAwMDAwMzQ0My5wbmc=-.png" alt="Seci Map" />
-  </a>
-  <a href="https://dailyplanapp.agileteknik.com/">
-    <img src="https://storage.agileteknik.com/media-library/4136/KPxfJcrWabWX5BUePkFCAv1NuBQKP1-metaTG9nbyBQbGF5c3RvcmUucG5n-.png" alt="Daily Plan" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://simplewallet.agileteknik.com">
+          <img src="https://storage.agileteknik.com/media-library/1921/k8RgXYAQadM0DFXCTKoHLMjsQ1vOLV-metadGh1bWIyLnBuZw==-.png" alt="Simple Wallet" width="120"/>
+          <br>Simple Wallet
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://nikomood.com">
+          <img src="https://storage.agileteknik.com/media-library/4170/zbvafeqPNZejMcQgzsBhEAx9DmrOGV-metaTmlrbyBNb29kIExvZ28gMzgucG5n-.png" alt="Niko Mood" width="120"/>
+          <br>Niko Mood
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://notetaker.agileteknik.com/note">
+          <img src="https://storage.agileteknik.com/media-library/4208/sg6KzBmUU0ADLaEOj5ICr739PYSvtc-metaTG9nbyBEYXJrIC0gU2VjaSBOb3RlLnBuZw==-.png" alt="Note Taker" width="120"/>
+          <br>Note Taker
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://secimap.com">
+          <img src="https://storage.agileteknik.com/media-library/4599/0B8LM2WWanaBIaYEFR1ImRB8RKRrTK-metaR3JvdXAgMTAwMDAwMzQ0My5wbmc=-.png" alt="Seci Map" width="120"/>
+          <br>Seci Map
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://dailyplanapp.agileteknik.com/">
+          <img src="https://storage.agileteknik.com/media-library/4136/KPxfJcrWabWX5BUePkFCAv1NuBQKP1-metaTG9nbyBQbGF5c3RvcmUucG5n-.png" alt="Daily Plan" width="120"/>
+          <br>Daily Plan
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <hr/>
