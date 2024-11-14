@@ -92,7 +92,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArZHa03&theme=react&border_radius=10">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArZHa03&theme=react&border_radius=10">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArZHa03&theme=react&border_radius=10">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArZHa03&theme=react&border_radius=10">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArZHa03&theme=react&utcOffset=7&border_radius=10">
     <br>
     <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ArZHa03&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
 </div>
