@@ -33,32 +33,32 @@
   <tr>
     <td align="center" width="130px">
       <a href="https://simplewallet.agileteknik.com">
-        <img src="https://storage.agileteknik.com/media-library/1921/k8RgXYAQadM0DFXCTKoHLMjsQ1vOLV-metadGh1bWIyLnBuZw==-.png" width="100px" alt="Simple Wallet" />
-        <br>Simple Wallet
+        <img src="https://storage.agileteknik.com/media-library/1921/k8RgXYAQadM0DFXCTKoHLMjsQ1vOLV-metadGh1bWIyLnBuZw==-.png" width="100px" alt="Simple Wallet" color="white"/>
+        <p>Simple Wallet</p>
       </a>
     </td>
     <td align="center" width="130px">
       <a href="https://nikomood.com">
-        <img src="https://storage.agileteknik.com/media-library/4170/zbvafeqPNZejMcQgzsBhEAx9DmrOGV-metaTmlrbyBNb29kIExvZ28gMzgucG5n-.png" width="100px" alt="Niko Mood" />
-        <br>Niko Mood
+        <img src="https://storage.agileteknik.com/media-library/4170/zbvafeqPNZejMcQgzsBhEAx9DmrOGV-metaTmlrbyBNb29kIExvZ28gMzgucG5n-.png" width="100px" />
+        <p>Niko Mood</p>
       </a>
     </td>
     <td align="center" width="130px">
       <a href="https://notetaker.agileteknik.com">
-        <img src="https://storage.agileteknik.com/media-library/4208/sg6KzBmUU0ADLaEOj5ICr739PYSvtc-metaTG9nbyBEYXJrIC0gU2VjaSBOb3RlLnBuZw==-.png" width="100px" alt="Note Taker" />
-        <br>Note Taker
+        <img src="https://storage.agileteknik.com/media-library/4208/sg6KzBmUU0ADLaEOj5ICr739PYSvtc-metaTG9nbyBEYXJrIC0gU2VjaSBOb3RlLnBuZw==-.png" width="100px" />
+        <p>Note Taker</p>
       </a>
     </td>
     <td align="center" width="130px">
       <a href="https://secimap.com">
-        <img src="https://storage.agileteknik.com/media-library/4599/0B8LM2WWanaBIaYEFR1ImRB8RKRrTK-metaR3JvdXAgMTAwMDAwMzQ0My5wbmc=-.png" width="100px" alt="SECI Map" />
-        <br>SECI Map
+        <img src="https://storage.agileteknik.com/media-library/4599/0B8LM2WWanaBIaYEFR1ImRB8RKRrTK-metaR3JvdXAgMTAwMDAwMzQ0My5wbmc=-.png" width="100px" />
+        <p>SECI Map</p>
       </a>
     </td>
     <td align="center" width="130px">
       <a href="https://dailyplanapp.agileteknik.com">
-        <img src="https://storage.agileteknik.com/media-library/4208/sg6KzBmUU0ADLaEOj5ICr739PYSvtc-metaTG9nbyBEYXJrIC0gU2VjaSBOb3RlLnBuZw==-.png" width="100px" alt="Daily Plan" />
-        <br>Daily Plan
+        <img src="https://storage.agileteknik.com/media-library/4208/sg6KzBmUU0ADLaEOj5ICr739PYSvtc-metaTG9nbyBEYXJrIC0gU2VjaSBOb3RlLnBuZw==-.png" width="100px" />
+        <p>Daily Plan</p>
       </a>
     </td>
   </tr>
