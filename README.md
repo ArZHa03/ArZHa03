@@ -28,8 +28,6 @@
 
 <h2 align="center">📦 My Products 📦</h2>
 
-<h2 align="center">📦 My Products 📦</h2>
-
 <table align="center">
   <tr>
     <td align="center" width="130px">
