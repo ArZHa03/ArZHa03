@@ -5,13 +5,8 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaki!;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArZHa03&theme=dracula">
 </h1>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArZHa03&theme=dracula">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ArZHa03&style=flat-square&color=red"/>
-</p>
 
 <h3 align="center">A Passionate Software Developer from Indonesia</h3>
 
