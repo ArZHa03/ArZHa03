@@ -89,7 +89,6 @@
     <br>
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ArZHa03&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
     <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ArZHa03&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArZHa03&theme=react"/>
     <br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArZHa03&theme=react">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArZHa03&theme=react">
