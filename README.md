@@ -28,38 +28,42 @@
 
 <h2 align="center">📦 My Products 📦</h2>
 
-<div class="product-grid">
-  <div class="product-card">
-    <a href="https://simplewallet.agileteknik.com">
-      <img src="https://storage.agileteknik.com/media-library/1921/k8RgXYAQadM0DFXCTKoHLMjsQ1vOLV-metadGh1bWIyLnBuZw==-.png" alt="Simple Wallet" />
-      <p>Simple Wallet</p>
-    </a>
-  </div>
-  <div class="product-card">
-    <a href="https://nikomood.com">
-      <img src="https://storage.agileteknik.com/media-library/4170/zbvafeqPNZejMcQgzsBhEAx9DmrOGV-metaTmlrbyBNb29kIExvZ28gMzgucG5n-.png" alt="Niko Mood" />
-      <p>Niko Mood</p>
-    </a>
-  </div>
-  <div class="product-card">
-    <a href="https://notetaker.agileteknik.com">
-      <img src="https://storage.agileteknik.com/media-library/4208/sg6KzBmUU0ADLaEOj5ICr739PYSvtc-metaTG9nbyBEYXJrIC0gU2VjaSBOb3RlLnBuZw==-.png" alt="Note Taker" />
-      <p>Niko Mood</p>
-    </a>
-  </div>
-     <div class="product-card">
-    <a href="https://secimap.com">
-      <img src="https://storage.agileteknik.com/media-library/4599/0B8LM2WWanaBIaYEFR1ImRB8RKRrTK-metaR3JvdXAgMTAwMDAwMzQ0My5wbmc=-.png" alt="SECI Map" />
-      <p>SECI Map</p>
-    </a>
-  </div>
-     <div class="product-card">
-    <a href="https://dailyplanapp.agileteknik.com">
-      <img src="https://storage.agileteknik.com/media-library/4208/sg6KzBmUU0ADLaEOj5ICr739PYSvtc-metaTG9nbyBEYXJrIC0gU2VjaSBOb3RlLnBuZw==-.png" alt="Daily Plan" />
-      <p>Daily Plan</p>
-    </a>
-  </div>
-</div>
+<h2 align="center">📦 My Products 📦</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="130px">
+      <a href="https://simplewallet.agileteknik.com">
+        <img src="https://storage.agileteknik.com/media-library/1921/k8RgXYAQadM0DFXCTKoHLMjsQ1vOLV-metadGh1bWIyLnBuZw==-.png" width="100px" alt="Simple Wallet" />
+        <br>Simple Wallet
+      </a>
+    </td>
+    <td align="center" width="130px">
+      <a href="https://nikomood.com">
+        <img src="https://storage.agileteknik.com/media-library/4170/zbvafeqPNZejMcQgzsBhEAx9DmrOGV-metaTmlrbyBNb29kIExvZ28gMzgucG5n-.png" width="100px" alt="Niko Mood" />
+        <br>Niko Mood
+      </a>
+    </td>
+    <td align="center" width="130px">
+      <a href="https://notetaker.agileteknik.com">
+        <img src="https://storage.agileteknik.com/media-library/4208/sg6KzBmUU0ADLaEOj5ICr739PYSvtc-metaTG9nbyBEYXJrIC0gU2VjaSBOb3RlLnBuZw==-.png" width="100px" alt="Note Taker" />
+        <br>Note Taker
+      </a>
+    </td>
+    <td align="center" width="130px">
+      <a href="https://secimap.com">
+        <img src="https://storage.agileteknik.com/media-library/4599/0B8LM2WWanaBIaYEFR1ImRB8RKRrTK-metaR3JvdXAgMTAwMDAwMzQ0My5wbmc=-.png" width="100px" alt="SECI Map" />
+        <br>SECI Map
+      </a>
+    </td>
+    <td align="center" width="130px">
+      <a href="https://dailyplanapp.agileteknik.com">
+        <img src="https://storage.agileteknik.com/media-library/4208/sg6KzBmUU0ADLaEOj5ICr739PYSvtc-metaTG9nbyBEYXJrIC0gU2VjaSBOb3RlLnBuZw==-.png" width="100px" alt="Daily Plan" />
+        <br>Daily Plan
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
@@ -100,37 +104,3 @@
   <h2>🌙 Activity 🌙</h2>
   <img alt="Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArZHa03&theme=dracula" />
 </div>
-
-.product-grid {
-  display: flex;
-  gap: 15px;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 20px;
-}
-
-.product-card {
-  width: 130px;
-  background-color: #1e1e1e;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  text-align: center;
-  padding: 10px;
-  transition: transform 0.3s ease;
-}
-
-.product-card img {
-  width: 100px;
-  height: auto;
-  margin-bottom: 8px;
-}
-
-.product-card p {
-  color: #ffffff;
-  font-size: 14px;
-  margin: 0;
-}
-
-.product-card:hover {
-  transform: scale(1.05);
-}
