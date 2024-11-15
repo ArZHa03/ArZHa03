@@ -46,7 +46,7 @@
     <td align="center" width="130px">
       <a href="https://notetaker.agileteknik.com">
         <img src="https://storage.agileteknik.com/media-library/4208/sg6KzBmUU0ADLaEOj5ICr739PYSvtc-metaTG9nbyBEYXJrIC0gU2VjaSBOb3RlLnBuZw==-.png" width="100px" />
-        <p>Note Taker</p>
+        <p>Seci Note</p>
       </a>
     </td>
     <td align="center" width="130px">
@@ -57,7 +57,7 @@
     </td>
     <td align="center" width="130px">
       <a href="https://dailyplanapp.agileteknik.com">
-        <img src="https://storage.agileteknik.com/media-library/4208/sg6KzBmUU0ADLaEOj5ICr739PYSvtc-metaTG9nbyBEYXJrIC0gU2VjaSBOb3RlLnBuZw==-.png" width="100px" />
+        <img src="https://storage.agileteknik.com/media-library/4136/KPxfJcrWabWX5BUePkFCAv1NuBQKP1-metaTG9nbyBQbGF5c3RvcmUucG5n-.png" width="100px" />
         <p>Daily Plan</p>
       </a>
     </td>
