@@ -14,6 +14,8 @@
  📱 Enthusiast in Custom ROMs for optimal device performance
  
  👨‍💻 Currently focusing on Mobile Development
+
+ ✨ Mastering Clean Architecture combined with Design Patterns and Clean Code
 </div>
 
 <div align="center"> 
