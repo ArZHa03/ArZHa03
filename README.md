@@ -12,10 +12,11 @@
 
 <div align="center">
     📱 Enthusiast in Custom ROMs for optimal device performance
-    
+    <br>
     👨‍💻 Currently focusing on Mobile Development
-    
+    <br>
     ✨ Mastering Clean Architecture combined with Design Patterns and Clean Code
+    <br>
 </div>
 
 <div align="center"> 
