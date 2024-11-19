@@ -11,12 +11,9 @@
 <h3 align="center">A Passionate Software Developer from Indonesia</h3>
 
 <div align="center">
-    📱 Enthusiast in Custom ROMs for optimal device performance
-    <br>
-    👨‍💻 Currently focusing on Mobile Development
-    <br>
-    ✨ Mastering Clean Architecture combined with Design Patterns and Clean Code
-    <br>
+    <p>📱 Enthusiast in Custom ROMs for optimal device performance</p>
+    <p>👨‍💻 Currently focusing on Mobile Development</p>
+    <p>✨ Mastering Clean Architecture combined with Design Patterns and Clean Code</p>
 </div>
 
 <div align="center"> 
