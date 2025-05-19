@@ -15,7 +15,7 @@
         <br>
         👨‍💻 Currently focusing on Mobile Development
         <br>
-        ✨ Mastering Clean Architecture combined with Design Patterns and Clean Code
+        ✨ Mastering Clean Architecture combined with Design Patterns, Clean Code, and OOP
     </p>
 </div>
 
