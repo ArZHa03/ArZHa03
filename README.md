@@ -4,10 +4,18 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaki!;" />
-    <a href="https://wakatime.com/@1b100ce6-581e-4777-baf1-6f8e480c9139"><img src="https://wakatime.com/badge/user/1b100ce6-581e-4777-baf1-6f8e480c9139.svg" alt="Total time coded since Oct 12 2022" /></a>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArZHa03&theme=react">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaki!;" />
 </h1>
+
+<div align="center">
+  <a href="https://wakatime.com/@1b100ce6-581e-4777-baf1-6f8e480c9139">
+    <img src="https://wakatime.com/badge/user/1b100ce6-581e-4777-baf1-6f8e480c9139.svg" alt="Total time coded since Oct 12 2022" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArZHa03&theme=react">
+</div>
 
 <h3 align="center">A Passionate Software Developer from Indonesia</h3>
 
